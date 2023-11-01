@@ -1,4 +1,4 @@
-<img style="width:180px;height:180px;border-radius:999px;border:3px dotted #a9d104;margin:auto;display:block" src="https://pbs.twimg.com/profile_images/1714994556628762625/QqsfxLbh_400x400.jpg" alt="My Picture"></img>
+<img style="width:180px;height:180px;border-radius:999px;border:3px dotted #a9d104;margin:auto;display:block" src="https://pbs.twimg.com/profile_images/1718505868503683072/IaFLQZcF_400x400.jpg" alt="My Picture"></img>
 <h2 style="text-align:center">Hey 👋 am Stanley,<br> welcome to my virtual workshop </h2>
 
 [![Stanley's GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=stanleyugwu&hide=stars,contribs&show_icons=true&theme=merko&custom_title=My%20Github%20Stats&langs_count=10#gh-dark-mode-only)](https://github.com/stanleyugwu/github-readme-stats#gh-dark-mode-only)
