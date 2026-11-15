@@ -1,66 +1,83 @@
-<img style="width:180px;height:180px;border-radius:999px;border:3px dotted #a9d104;margin:auto;display:block" src="https://pbs.twimg.com/profile_images/1718505868503683072/IaFLQZcF_400x400.jpg" alt="My Picture"></img>
-<h2 style="text-align:center">Hey 👋, I’m Stanley,<br> welcome to my virtual workshop </h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workshop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/workshop-light.svg">
+  <img src="./assets/workshop-light.svg" width="100%" alt="Devvie's workshop. Curiosity, with a commit history. An unfinished blue line connects product, business and system.">
+</picture>
 
-[![Stanley's GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=stanleyugwu&hide=stars,contribs&show_icons=true&theme=merko&custom_title=My%20Github%20Stats&langs_count=10#gh-dark-mode-only)](https://github.com/stanleyugwu/github-readme-stats#gh-dark-mode-only)
+# Hey, I’m Stanley. Devvie on the internet. 👋🏾
 
-[![Stanley's GitHub stats (light)](https://github-readme-stats.vercel.app/api?username=stanleyugwu&hide=stars,contribs&show_icons=true&theme=merko&custom_title=My%20Github%20Stats#gh-light-mode-only)](https://github.com/stanleyugwu/github-readme-stats#gh-light-mode-only)
+**Product engineer · Mobile apps, backend systems & AI workflows · Lagos, Nigeria**
 
-<h3 style="color:#a9d104">📝 Quick Bio</h3>
+I build answers to questions I never finish asking. Usually as mobile apps, backend systems or libraries. Occasionally as a very long conversation.
 
-**Curious, community-taught product engineer.**
+I care about how a product feels, why it should exist, and what keeps it working. The interface and the machinery. That’s my kind of rabbit hole.
 
-I build mobile applications, backend systems and AI-enabled workflows. I care about the engineering decisions behind the experience: what users need, the constraints around delivery, and how the system will change.
+**[Step inside the portfolio ↗](https://devvie.dev)** · [Résumé](https://devvie.dev/Stanley-Ugwu-Resume.pdf) · [Say hello](mailto:hello@devvie.dev)
 
-[Work and case studies](https://devvie.dev) · [LinkedIn](https://www.linkedin.com/in/stanleyugwu/)
+## A few receipts 🧾
 
-<h3 style="color:#a9d104">🛠 Core Tech Stack</h3>
+| **51k+** | **370+** | **3,000+** |
+| :--- | :--- | :--- |
+| npm downloads/month | GitHub stars | football fixtures in one matches view |
+| [bottom-sheet](https://www.npmjs.com/package/@devvie/bottom-sheet) | [bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet) | [Spotip](https://devvie.dev/work/spotip) |
 
-- TypeScript and JavaScript
-- React Native and Expo
-- Node.js, Express and PostgreSQL
-- Redis/BullMQ, Docker/Kamal and GitHub Actions
-- Exploring C and the systems underneath the software
+## Things that escaped my laptop
 
-### Production work and open source
+### 01 / A bottom sheet. Yes, I had opinions.
 
-- **[Bybull](https://devvie.dev/work/bybull)** — backend foundations, exchange and wallet integrations, AI-enabled workflows and delivery infrastructure.
-- **[Spotip](https://devvie.dev/work/spotip)** — a mobile football product built from its initial version, including live updates and a matches view with more than 3,000 fixtures.
-- **[Wattly Pay](https://devvie.dev/work/wattly-pay)** — the mobile payment experience, pending-transaction recovery and token handling, built in collaboration with a backend engineer. [Mobile source](https://github.com/stanleyugwu/wattly-mobile/tree/develop).
-- **[@devvie/bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet)** — a dependency-free React Native component I created and maintain. 51k+ npm downloads/month.
+I created and maintain **[@devvie/bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet)**, a dependency-free React Native component. Keyboard behaviour, snap points, nested scrolling, typed APIs. A small piece of UI with a surprising number of things to think about.
 
-<!-- PROJECT CARDS IN LIGHT AND DARK MODE -->
-<h3 style="color:#a9d104">💻 Earlier projects and repositories</h3>
+[Inspect the code](https://github.com/stanleyugwu/react-native-bottom-sheet) · [Get the package](https://www.npmjs.com/package/@devvie/bottom-sheet) · [Read the decisions](https://devvie.dev/work/devvie-bottom-sheet)
 
-[![React Native Bottom Sheet (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=react-native-bottom-sheet&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/react-native-bottom-sheet#gh-dark-mode-only)
-[![React Native Bottom Sheet (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=react-native-bottom-sheet#gh-light-mode-only)](https://github.com/stanleyugwu/react-native-bottom-sheet#gh-light-mode-only)
+### 02 / Bybull — a backend with room to change.
 
-[![Escapees App (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=escapees_app&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/escapees_app#gh-dark-mode-only)
-[![Escapees App (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=escapees_app#gh-light-mode-only)](https://github.com/stanleyugwu/escapees_app#gh-light-mode-only)
+At Tensfer, I’ve worked across Bybull’s backend foundations, exchange and wallet integrations, AI-chat workflows, background jobs and delivery infrastructure. A lot of the work is making room for the next change without making today’s product harder to run.
 
-[![Easy Vtu (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=easyvtu&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/easyvtu#gh-dark-mode-only)
-[![Easy Vtu (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=easyvtu#gh-light-mode-only)](https://github.com/stanleyugwu/easyvtu#gh-light-mode-only)
+[Backend & AI case study ↗](https://devvie.dev/work/bybull)
 
-[![Bourd (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=bourd&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/bourd#gh-dark-mode-only)
-[![Bourd (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=bourd#gh-light-mode-only)](https://github.com/stanleyugwu/bourd#gh-light-mode-only)
+### 03 / Spotip — football doesn’t wait for your UI.
 
-[![React Native Device Number (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=react-native-device-number&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/react-native-device-number#gh-dark-mode-only)
-[![React Native Device Number (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=react-native-device-number#gh-light-mode-only)](https://github.com/stanleyugwu/react-native-device-number#gh-light-mode-only)
+I built the mobile app from its initial version: live scores, caching, league grouping, favourites, and all the awkward ways a football clock behaves. Half-time is not full-time. Extra time is not injury time. The UI needs to know that too.
 
-[![DevReg Frontend (dark)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=devReg_frontend&theme=dark#gh-dark-mode-only)](https://github.com/stanleyugwu/devReg_frontend#gh-dark-mode-only)
-[![DevReg Frontend (light)](https://github-readme-stats.vercel.app/api/pin/?username=stanleyugwu&repo=devReg_frontend#gh-light-mode-only)](https://github.com/stanleyugwu/devReg_frontend#gh-light-mode-only)
+[Real-time mobile case study ↗](https://devvie.dev/work/spotip)
 
-<h3 style="color:#a9d104">🔗 Let's Connect</h3>
-<div style="display:flex;justify-content:start;">
-<a href="mailto:hello@devvie.dev" target="_blank">
-  <img src="https://github.com/stanleyugwu/stanleyugwu/blob/main/contact%20icons/mail.png" style="width:50px;height:50px" alt="Email"></img>
-</a>
-<a style="margin-left:20px" href="https://wa.me/message/MAN6OGWKQNHIH1" target="_blank">
-  <img src="https://github.com/stanleyugwu/stanleyugwu/blob/main/contact%20icons/whatsapp.png" style="width:50px;height:50px" alt="Chat"></img>
-</a>
-<a style="margin-left:20px" href="https://linkedin.com/in/stanleyugwu" target="_blank">
-  <img src="https://github.com/stanleyugwu/stanleyugwu/blob/main/contact%20icons/linkedin.png" style="width:50px;height:50px" alt="Linkedin"></img>
-</a>
-<a style="margin-left:20px" href="https://twitter.com/stanleyugwu_" target="_blank">
-  <img src="https://github.com/stanleyugwu/stanleyugwu/blob/main/contact%20icons/twitter.png" style="width:50px;height:50px" alt="Twitter"></img>
-</a>
-</div>
+### 04 / Wattly — “pending” is still part of the product.
+
+I built the mobile payment experience, working with a backend engineer on the API contracts. Simpler top-ups, meter validation, checking pending transactions when the app reopens, and getting purchased tokens back in front of the person who needs them.
+
+[Payment experience case study ↗](https://devvie.dev/work/wattly-pay) · [Mobile source](https://github.com/stanleyugwu/wattly-mobile/tree/develop)
+
+## The bit between the commits
+
+My questions tend to wander through **technology, philosophy, psychology and business**. I’m interested in the people using a product, the constraints around it, and the system underneath it. I’m still learning how to hold all three in view.
+
+Currently poking around in **C** and the systems underneath the software I build. Apparently, “the runtime handles it” only makes me more curious.
+
+<details>
+<summary><strong>Open the workshop drawer ↴</strong> Tools, experiments, and a few detours.</summary>
+
+<br>
+
+**Usually within arm’s reach**
+
+TypeScript / JavaScript · React Native / Expo · Node.js / Express · PostgreSQL · Redis / BullMQ · Docker / Kamal · GitHub Actions
+
+**A few smaller rabbit holes**
+
+- [Card validator](https://github.com/stanleyugwu/card-validator) — a small Node.js, Express and TypeScript API using the Luhn algorithm and card-brand checks.
+- [C exercises](https://github.com/stanleyugwu/alx-low_level_programming) — getting closer to the machinery.
+- [DevReg](https://github.com/stanleyugwu/devReg) — an earlier smart-contract experiment: a developers’ registry.
+
+**A thought that escaped into writing**
+
+[Your Brilliant Idea Might Actually Suck](https://dev.to/stanleyugwu/your-brilliant-idea-might-actually-suck-1i9c) — a little less falling in love with an idea, a little more finding out whether it’s useful.
+
+</details>
+
+## Got something worth getting absorbed in?
+
+I’m open to **full-time product engineering roles**, with React Native/mobile or Node.js/backend as strong starting points. If your team cares about the experience and the engineering behind it, I’d like to hear what you’re building.
+
+**[hello@devvie.dev](mailto:hello@devvie.dev)** · [Portfolio](https://devvie.dev) · [LinkedIn](https://www.linkedin.com/in/stanleyugwu/) · [X](https://x.com/stanleyugwu_) · [Writing](https://dev.to/stanleyugwu)
+
+<sub>Workshop remains open. Questions remain unresolved. ✌🏾</sub>
