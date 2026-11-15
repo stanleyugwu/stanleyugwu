@@ -18,7 +18,7 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 | **51k+** | **370+** | **3,000+** |
 | :--- | :--- | :--- |
-| npm downloads/month | GitHub stars | football fixtures in one matches view |
+| monthly npm downloads | GitHub stars | football fixtures in one matches view |
 | [bottom-sheet](https://www.npmjs.com/package/@devvie/bottom-sheet) | [bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet) | [Spotip](https://devvie.dev/work/spotip) |
 
 ## Things that escaped my laptop
