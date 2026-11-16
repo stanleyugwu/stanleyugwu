@@ -16,48 +16,71 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 ## A few receipts 🧾
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-<picture><img src="./assets/stamp-package.svg" width="44" height="44" alt=""></picture>
-<h2>51k+</h2>
-monthly npm<br>downloads<br>
-<a href="https://www.npmjs.com/package/@devvie/bottom-sheet">package</a>
-</td>
-<td align="center" valign="top" width="33%">
-<picture><img src="./assets/stamp-star.svg" width="44" height="44" alt=""></picture>
-<h2>370+</h2>
-GitHub<br>stars<br>
-<a href="https://github.com/stanleyugwu/react-native-bottom-sheet">code</a>
-</td>
-<td align="center" valign="top" width="33%">
-<picture><img src="./assets/stamp-match.svg" width="44" height="44" alt=""></picture>
-<h2>3,000+</h2>
-fixtures in one<br>matches view<br>
-<a href="https://devvie.dev/work/spotip">Spotip</a>
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/receipts-mobile.svg">
+  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads and 370+ GitHub stars for bottom-sheet; 3,000+ fixtures in one Spotip matches view; zero runtime dependencies in bottom-sheet; four vendor types served by one adaptive 9th app.">
+</picture>
+
+<details>
+<summary><strong>Check the receipts ↴</strong> Numbers, context, and places to poke around.</summary>
+
+- **51k+ monthly npm downloads** — [@devvie/bottom-sheet on npm](https://www.npmjs.com/package/@devvie/bottom-sheet).
+- **370+ GitHub stars** — [React Native Bottom Sheet](https://github.com/stanleyugwu/react-native-bottom-sheet).
+- **3,000+ fixtures in one matches view** — [Spotip’s real-time mobile experience](https://devvie.dev/work/spotip).
+- **0 runtime dependencies** — [the library’s API and implementation](https://github.com/stanleyugwu/react-native-bottom-sheet).
+- **4 vendor types in one adaptive app** — sellers, service providers, realtors and logistics providers in [9th Vendor](https://apps.apple.com/ng/app/9th-vendor/id6793111723).
+
+</details>
 
 ## Things that escaped my laptop
 
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/workbench-one-mobile.svg">
-  <img src="./assets/workbench-one.svg" width="100%" alt="Illustrated workshop notes: bottom-sheet, a small API with very specific opinions; Bybull, a backend with room for the next change.">
-</picture>
+<table role="presentation">
+<tr><td>
+<a href="https://devvie.dev/work/devvie-bottom-sheet"><picture>
+  <source media="(max-width: 640px)" srcset="./assets/project-sheet-mobile.svg">
+  <img src="./assets/project-sheet.svg" width="100%" alt="bottom-sheet — A small API. Very specific opinions.">
+</picture></a>
+<h3><a href="https://devvie.dev/work/devvie-bottom-sheet">01 / bottom-sheet</a></h3>
+<p>A dependency-free React Native component I created and maintain. Keyboard behaviour, snap points, nested scrolling. Yes, I had opinions.</p>
+<p><a href="https://github.com/stanleyugwu/react-native-bottom-sheet">Inspect the code ↗</a> · <a href="https://www.npmjs.com/package/@devvie/bottom-sheet">Get the package</a></p>
+</td></tr>
+</table>
 
-**[01 / bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet)** — A dependency-free React Native component I created and maintain. Keyboard behaviour, snap points, nested scrolling. Yes, I had opinions. [Decisions ↗](https://devvie.dev/work/devvie-bottom-sheet)
+<table role="presentation">
+<tr><td>
+<a href="https://devvie.dev/work/bybull"><picture>
+  <source media="(max-width: 640px)" srcset="./assets/project-bybull-mobile.svg">
+  <img src="./assets/project-bybull.svg" width="100%" alt="Bybull — Room for the next change.">
+</picture></a>
+<h3><a href="https://devvie.dev/work/bybull">02 / Bybull</a></h3>
+<p>At Tensfer: backend foundations, exchange and wallet APIs, AI-chat workflows, queues and delivery. Making room for whatever the product becomes next.</p>
+<p><a href="https://devvie.dev/work/bybull">Backend &amp; AI case study ↗</a></p>
+</td></tr>
+</table>
 
-**[02 / Bybull](https://devvie.dev/work/bybull)** — At Tensfer: backend foundations, exchange and wallet APIs, AI-chat workflows, queues and delivery. Making room for whatever the product becomes next.
+<table role="presentation">
+<tr><td>
+<a href="https://devvie.dev/work/spotip"><picture>
+  <source media="(max-width: 640px)" srcset="./assets/project-spotip-mobile.svg">
+  <img src="./assets/project-spotip.svg" width="100%" alt="Spotip — Football doesn’t wait for your UI.">
+</picture></a>
+<h3><a href="https://devvie.dev/work/spotip">03 / Spotip</a></h3>
+<p>Built the mobile app from its initial version. Live scores, caching, favourites, and a football clock with opinions of its own.</p>
+<p><a href="https://devvie.dev/work/spotip">Real-time mobile case study ↗</a></p>
+</td></tr>
+</table>
 
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/workbench-two-mobile.svg">
-  <img src="./assets/workbench-two.svg" width="100%" alt="Illustrated workshop notes: Spotip, because football does not wait for your UI; Wattly, because pending is still part of the product.">
-</picture>
-
-**[03 / Spotip](https://devvie.dev/work/spotip)** — Built the mobile app from its initial version. Live scores, caching, favourites, and a football clock with opinions of its own.
-
-**[04 / Wattly](https://devvie.dev/work/wattly-pay)** — Built the mobile payment experience with a backend engineer: simpler top-ups, pending-transaction checks and purchased tokens. [Mobile source ↗](https://github.com/stanleyugwu/wattly-mobile/tree/develop)
+<table role="presentation">
+<tr><td>
+<a href="https://devvie.dev/work/wattly-pay"><picture>
+  <source media="(max-width: 640px)" srcset="./assets/project-wattly-mobile.svg">
+  <img src="./assets/project-wattly.svg" width="100%" alt="Wattly — “Pending” is part of the product.">
+</picture></a>
+<h3><a href="https://devvie.dev/work/wattly-pay">04 / Wattly</a></h3>
+<p>Built the mobile payment experience with a backend engineer: simpler top-ups, pending-transaction checks and purchased tokens.</p>
+<p><a href="https://devvie.dev/work/wattly-pay">Payment experience case study ↗</a> · <a href="https://github.com/stanleyugwu/wattly-mobile/tree/develop">Mobile source</a></p>
+</td></tr>
+</table>
 
 ## The bit between the commits
 
