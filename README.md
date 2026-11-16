@@ -17,8 +17,8 @@ I care about how a product feels, why it should exist, and what keeps it working
 ## A few receipts 🧾
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/receipts-mobile.svg">
-  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads for bottom-sheet; 3,000+ fixtures in one Spotip matches view; AI-chat workflows built into Bybull; 370+ GitHub stars for bottom-sheet; four vendor types in one adaptive 9th app.">
+  <source media="(max-width: 640px)" srcset="./assets/receipts-mobile.svg?v=chat-stars-20261116">
+  <img src="./assets/receipts.svg?v=chat-stars-20261116" width="100%" alt="51k+ monthly npm downloads for bottom-sheet; 3,000+ fixtures in one Spotip matches view; AI-chat workflows built into Bybull; 370+ GitHub stars for bottom-sheet; four vendor types in one adaptive 9th app.">
 </picture>
 
 <details>
