@@ -18,19 +18,19 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <picture><img src="./assets/stamp-package.svg" width="44" height="44" alt=""></picture>
 <h2>51k+</h2>
 monthly npm<br>downloads<br>
 <a href="https://www.npmjs.com/package/@devvie/bottom-sheet">package</a>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <picture><img src="./assets/stamp-star.svg" width="44" height="44" alt=""></picture>
 <h2>370+</h2>
 GitHub<br>stars<br>
 <a href="https://github.com/stanleyugwu/react-native-bottom-sheet">code</a>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <picture><img src="./assets/stamp-match.svg" width="44" height="44" alt=""></picture>
 <h2>3,000+</h2>
 fixtures in one<br>matches view<br>
