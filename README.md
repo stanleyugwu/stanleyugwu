@@ -18,7 +18,7 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/receipts-mobile.svg">
-  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads for bottom-sheet; 3,000+ fixtures in one Spotip matches view; validated AI workflows at Bybull; pending-transaction recovery and token handling at Wattly; four vendor types in one adaptive 9th app.">
+  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads for bottom-sheet; 3,000+ fixtures in one Spotip matches view; AI-chat workflows built into Bybull; 370+ GitHub stars for bottom-sheet; four vendor types in one adaptive 9th app.">
 </picture>
 
 <details>
@@ -26,8 +26,8 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 - **51k+ monthly npm downloads** — [@devvie/bottom-sheet on npm](https://www.npmjs.com/package/@devvie/bottom-sheet).
 - **3,000+ fixtures in one matches view** — [Spotip’s real-time mobile experience](https://devvie.dev/work/spotip).
-- **Validated AI workflows** — validation and controlled feature calls in [Bybull’s backend](https://devvie.dev/work/bybull).
-- **Pending-transaction recovery** — checking status when the app reopens and surfacing purchased tokens in [Wattly’s mobile experience](https://devvie.dev/work/wattly-pay).
+- **AI-chat features built into Bybull** — integrated chat-driven workflows into the platform, with validation and controlled feature calls. [Engineering case study](https://devvie.dev/work/bybull).
+- **370+ GitHub stars** — [React Native Bottom Sheet](https://github.com/stanleyugwu/react-native-bottom-sheet).
 - **4 vendor types in one adaptive app** — sellers, service providers, realtors and logistics providers in [9th Vendor](https://apps.apple.com/ng/app/9th-vendor/id6793111723).
 
 </details>
