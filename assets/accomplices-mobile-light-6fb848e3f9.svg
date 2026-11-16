@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624" height="1090" viewBox="0 0 624 1090" role="img" aria-labelledby="title desc">
+<title id="title">The usual accomplices</title>
+<desc id="desc">The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#626674" opacity=".15"/></pattern></defs>
+<rect width="624" height="1090" rx="18" fill="#F7F6F2"/>
+<rect width="624" height="1090" rx="18" fill="url(#dots)"/>
+<text x="30" y="40" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" font-weight="400" fill="#626674">USUALLY WITHIN ARM’S REACH</text>
+<path d="M30 59H594" fill="none" stroke="#D6D6D6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<path d="M35 337C183 301 478 320 584 363L571 505C368 530 159 499 39 492Z" fill="#DFEDE2"/>
+<path d="M41 514L553 498L575 588L52 611Z" fill="#E5DFF5"/>
+<ellipse cx="156" cy="966" rx="82" ry="69" transform="rotate(-12 156 966)" fill="#F4E6BF"/>
+<text x="40" y="105" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="400" fill="#626674">01 / FOR THE THUMBS</text>
+<text x="36" y="173" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#171A2B" letter-spacing="-2.5">React Native</text>
+<text x="48" y="236" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" fill="#315BDF" transform="rotate(-6 48 236)" letter-spacing="-2.5">Expo</text>
+<text x="224" y="228" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" fill="#171A2B" transform="rotate(3 224 228)">Reanimated</text>
+<text x="45" y="287" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" fill="#171A2B">FlashList</text>
+<text x="276" y="282" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400" fill="#626674" transform="rotate(-5 276 282)">React.js</text>
+<text x="577" y="271" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#315BDF" transform="rotate(-90 577 271)">JavaScript</text>
+<path d="M44 188C200 178 350 197 470 183" fill="none" stroke="#315BDF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="40" y="327" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="400" fill="#626674">02 / UNDER THE HOOD</text>
+<text x="39" y="395" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#171A2B" letter-spacing="-2.5">Node.js</text>
+<text x="348" y="381" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" fill="#315BDF" transform="rotate(6 348 381)">Express</text>
+<text x="45" y="447" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" fill="#171A2B">PostgreSQL</text>
+<text x="363" y="441" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" fill="#315BDF" transform="rotate(-4 363 441)">Prisma</text>
+<text x="47" y="493" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" fill="#315BDF">Redis</text>
+<text x="196" y="489" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" fill="#171A2B" transform="rotate(3 196 489)">BullMQ</text>
+<text x="406" y="487" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#626674" transform="rotate(-4 406 487)">REST</text>
+<text x="66" y="579" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" fill="#315BDF" transform="rotate(-3 66 579)" letter-spacing="-2.5">TypeScript</text>
+<text x="126" y="625" font-family="Georgia, Times New Roman, serif" font-size="26" font-weight="400" fill="#626674" transform="rotate(-3 126 625)" font-style="italic">the thread through most of it</text>
+<text x="45" y="674" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="600" fill="#315BDF">WebSockets</text>
+<text x="351" y="675" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" fill="#171A2B" transform="rotate(-4 351 675)">Jest</text>
+<text x="474" y="671" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="#171A2B">Mocha</text>
+<text x="40" y="720" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="400" fill="#626674">03 / OUT THE DOOR</text>
+<text x="39" y="784" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" fill="#171A2B" letter-spacing="-2.5">Docker</text>
+<text x="296" y="780" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="600" fill="#315BDF" transform="rotate(-5 296 780)">Kamal</text>
+<text x="48" y="832" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#171A2B">GitHub Actions</text>
+<text x="399" y="828" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" fill="#315BDF" transform="rotate(-6 399 828)">Xcode</text>
+<text x="47" y="880" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" fill="#171A2B">Android Studio</text>
+<path d="M363 868C411 847 451 881 488 872L552 851" fill="none" stroke="#315BDF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<path d="M539 847L554 850L549 864" fill="none" stroke="#315BDF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="279" y="937" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" font-weight="400" fill="#626674">04 / THE RABBIT HOLE</text>
+<text x="109" y="1007" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" fill="#171A2B" transform="rotate(-8 109 1007)" letter-spacing="-2.5">C</text>
+<text x="288" y="978" font-family="Georgia, Times New Roman, serif" font-size="26" font-weight="400" fill="#315BDF" font-style="italic">closer to the machinery.</text>
+<text x="284" y="1015" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#626674">currently poking around</text>
+<path d="M30 1036H594" fill="none" stroke="#D6D6D6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="312" y="1073" font-family="Georgia, Times New Roman, serif" font-size="28" font-weight="400" fill="#315BDF" font-style="italic" text-anchor="middle">“it depends” comes separately.</text>
+</svg>

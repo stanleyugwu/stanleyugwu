@@ -82,6 +82,29 @@ I care about how a product feels, why it should exist, and what keeps it working
 </td></tr>
 </table>
 
+## The usual accomplices
+
+Good tools. Questionable number of tabs.
+
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/accomplices-mobile-dark-f148a31df1.svg">
+  <source media="(max-width: 640px)" srcset="./assets/accomplices-mobile-light-6fb848e3f9.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/accomplices-dark-8a6949c33d.svg">
+  <img src="./assets/accomplices-light-0f15312804.svg" width="100%" alt="The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.">
+</picture>
+
+<details>
+<summary><strong>Read the labels ↴</strong> What lives where.</summary>
+
+- **Mobile:** React Native, Expo, Reanimated, FlashList.
+- **Backend:** Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST, WebSockets.
+- **Across the work:** TypeScript, JavaScript, React.js.
+- **Testing:** Jest, Mocha.
+- **Delivery:** Docker, Kamal, GitHub Actions, Xcode, Android Studio.
+- **Currently exploring:** C — [closer to the machinery](https://github.com/stanleyugwu/alx-low_level_programming).
+
+</details>
+
 ## The bit between the commits
 
 My brain keeps tabs open for **technology, philosophy, psychology and business**. They have a terrible habit of talking to each other.
@@ -89,13 +112,9 @@ My brain keeps tabs open for **technology, philosophy, psychology and business**
 > Currently poking around in **C**. “The runtime handles it” only makes me more curious.
 
 <details>
-<summary><strong>Open the workshop drawer ↴</strong> Tools, experiments, and a few detours.</summary>
+<summary><strong>Open the workshop drawer ↴</strong> Experiments and a few detours.</summary>
 
 <br>
-
-**Usually within arm’s reach**
-
-TypeScript / JavaScript · React Native / Expo · Node.js / Express · PostgreSQL · Redis / BullMQ · Docker / Kamal · GitHub Actions
 
 **A few smaller rabbit holes**
 
