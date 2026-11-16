@@ -18,16 +18,16 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/receipts-mobile.svg">
-  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads and 370+ GitHub stars for bottom-sheet; 3,000+ fixtures in one Spotip matches view; zero runtime dependencies in bottom-sheet; four vendor types served by one adaptive 9th app.">
+  <img src="./assets/receipts.svg" width="100%" alt="51k+ monthly npm downloads for bottom-sheet; 3,000+ fixtures in one Spotip matches view; validated AI workflows at Bybull; pending-transaction recovery and token handling at Wattly; four vendor types in one adaptive 9th app.">
 </picture>
 
 <details>
 <summary><strong>Check the receipts ↴</strong> Numbers, context, and places to poke around.</summary>
 
 - **51k+ monthly npm downloads** — [@devvie/bottom-sheet on npm](https://www.npmjs.com/package/@devvie/bottom-sheet).
-- **370+ GitHub stars** — [React Native Bottom Sheet](https://github.com/stanleyugwu/react-native-bottom-sheet).
 - **3,000+ fixtures in one matches view** — [Spotip’s real-time mobile experience](https://devvie.dev/work/spotip).
-- **0 runtime dependencies** — [the library’s API and implementation](https://github.com/stanleyugwu/react-native-bottom-sheet).
+- **Validated AI workflows** — validation and controlled feature calls in [Bybull’s backend](https://devvie.dev/work/bybull).
+- **Pending-transaction recovery** — checking status when the app reopens and surfacing purchased tokens in [Wattly’s mobile experience](https://devvie.dev/work/wattly-pay).
 - **4 vendor types in one adaptive app** — sellers, service providers, realtors and logistics providers in [9th Vendor](https://apps.apple.com/ng/app/9th-vendor/id6793111723).
 
 </details>
