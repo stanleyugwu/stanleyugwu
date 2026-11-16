@@ -16,42 +16,54 @@ I care about how a product feels, why it should exist, and what keeps it working
 
 ## A few receipts 🧾
 
-| **51k+** | **370+** | **3,000+** |
-| :--- | :--- | :--- |
-| monthly npm downloads | GitHub stars | football fixtures in one matches view |
-| [bottom-sheet](https://www.npmjs.com/package/@devvie/bottom-sheet) | [bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet) | [Spotip](https://devvie.dev/work/spotip) |
+<table>
+<tr>
+<td align="center" width="33%">
+<picture><img src="./assets/stamp-package.svg" width="44" height="44" alt=""></picture>
+<h2>51k+</h2>
+monthly npm<br>downloads<br>
+<a href="https://www.npmjs.com/package/@devvie/bottom-sheet">package</a>
+</td>
+<td align="center" width="33%">
+<picture><img src="./assets/stamp-star.svg" width="44" height="44" alt=""></picture>
+<h2>370+</h2>
+GitHub<br>stars<br>
+<a href="https://github.com/stanleyugwu/react-native-bottom-sheet">code</a>
+</td>
+<td align="center" width="33%">
+<picture><img src="./assets/stamp-match.svg" width="44" height="44" alt=""></picture>
+<h2>3,000+</h2>
+fixtures in one<br>matches view<br>
+<a href="https://devvie.dev/work/spotip">Spotip</a>
+</td>
+</tr>
+</table>
 
 ## Things that escaped my laptop
 
-### 01 / A bottom sheet. Yes, I had opinions.
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/workbench-one-mobile.svg">
+  <img src="./assets/workbench-one.svg" width="100%" alt="Illustrated workshop notes: bottom-sheet, a small API with very specific opinions; Bybull, a backend with room for the next change.">
+</picture>
 
-I created and maintain **[@devvie/bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet)**, a dependency-free React Native component. Keyboard behaviour, snap points, nested scrolling, typed APIs. A small piece of UI with a surprising number of things to think about.
+**[01 / bottom-sheet](https://github.com/stanleyugwu/react-native-bottom-sheet)** — A dependency-free React Native component I created and maintain. Keyboard behaviour, snap points, nested scrolling. Yes, I had opinions. [Decisions ↗](https://devvie.dev/work/devvie-bottom-sheet)
 
-[Inspect the code](https://github.com/stanleyugwu/react-native-bottom-sheet) · [Get the package](https://www.npmjs.com/package/@devvie/bottom-sheet) · [Read the decisions](https://devvie.dev/work/devvie-bottom-sheet)
+**[02 / Bybull](https://devvie.dev/work/bybull)** — At Tensfer: backend foundations, exchange and wallet APIs, AI-chat workflows, queues and delivery. Making room for whatever the product becomes next.
 
-### 02 / Bybull — a backend with room to change.
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/workbench-two-mobile.svg">
+  <img src="./assets/workbench-two.svg" width="100%" alt="Illustrated workshop notes: Spotip, because football does not wait for your UI; Wattly, because pending is still part of the product.">
+</picture>
 
-At Tensfer, I’ve worked across Bybull’s backend foundations, exchange and wallet integrations, AI-chat workflows, background jobs and delivery infrastructure. A lot of the work is making room for the next change without making today’s product harder to run.
+**[03 / Spotip](https://devvie.dev/work/spotip)** — Built the mobile app from its initial version. Live scores, caching, favourites, and a football clock with opinions of its own.
 
-[Backend & AI case study ↗](https://devvie.dev/work/bybull)
-
-### 03 / Spotip — football doesn’t wait for your UI.
-
-I built the mobile app from its initial version: live scores, caching, league grouping, favourites, and all the awkward ways a football clock behaves. Half-time is not full-time. Extra time is not injury time. The UI needs to know that too.
-
-[Real-time mobile case study ↗](https://devvie.dev/work/spotip)
-
-### 04 / Wattly — “pending” is still part of the product.
-
-I built the mobile payment experience, working with a backend engineer on the API contracts. Simpler top-ups, meter validation, checking pending transactions when the app reopens, and getting purchased tokens back in front of the person who needs them.
-
-[Payment experience case study ↗](https://devvie.dev/work/wattly-pay) · [Mobile source](https://github.com/stanleyugwu/wattly-mobile/tree/develop)
+**[04 / Wattly](https://devvie.dev/work/wattly-pay)** — Built the mobile payment experience with a backend engineer: simpler top-ups, pending-transaction checks and purchased tokens. [Mobile source ↗](https://github.com/stanleyugwu/wattly-mobile/tree/develop)
 
 ## The bit between the commits
 
-My questions tend to wander through **technology, philosophy, psychology and business**. I’m interested in the people using a product, the constraints around it, and the system underneath it. I’m still learning how to hold all three in view.
+My brain keeps tabs open for **technology, philosophy, psychology and business**. They have a terrible habit of talking to each other.
 
-Currently poking around in **C** and the systems underneath the software I build. Apparently, “the runtime handles it” only makes me more curious.
+> Currently poking around in **C**. “The runtime handles it” only makes me more curious.
 
 <details>
 <summary><strong>Open the workshop drawer ↴</strong> Tools, experiments, and a few detours.</summary>
