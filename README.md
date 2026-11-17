@@ -87,10 +87,12 @@ I care about how a product feels, why it should exist, and what keeps it working
 Good tools. Questionable number of tabs.
 
 <picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/accomplices-mobile-dark-f148a31df1.svg">
+  <source media="(max-width: 640px)" srcset="./assets/accomplices-mobile-dark-f148a31df1.svg">
+  <img src="./assets/accomplices-dark-8a6949c33d.svg#gh-dark-mode-only" width="100%" alt="The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.">
+</picture>
+<picture>
   <source media="(max-width: 640px)" srcset="./assets/accomplices-mobile-light-6fb848e3f9.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/accomplices-dark-8a6949c33d.svg">
-  <img src="./assets/accomplices-light-0f15312804.svg" width="100%" alt="The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.">
+  <img src="./assets/accomplices-light-0f15312804.svg#gh-light-mode-only" width="100%" alt="The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.">
 </picture>
 
 <details>
