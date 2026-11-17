@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="608" viewBox="0 0 1240 608" role="img" aria-labelledby="title desc">
+<title id="title">The usual accomplices</title>
+<desc id="desc">The usual accomplices: React Native, Expo, Reanimated and FlashList for mobile; Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, REST and WebSockets for backend systems; TypeScript, JavaScript and React.js across the work; Jest and Mocha for testing; Docker, Kamal, GitHub Actions, Xcode and Android Studio for delivery. C is a current learning detour.</desc>
+<style>:root{--ink:#171A2B;--muted:#626674;--blue:#315BDF;--bg:#F7F6F2;--rule:#D6D6D6;--lavender:#E5DFF5;--mint:#DFEDE2;--gold:#F4E6BF}@media(prefers-color-scheme:dark){:root{--ink:#F3F1EB;--muted:#B5B8C5;--blue:#97B5FF;--bg:#151A25;--rule:#3B4355;--lavender:#38364E;--mint:#233D3B;--gold:#49402C}}</style>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="var(--muted)" opacity=".15"/></pattern></defs>
+<rect width="1240" height="608" rx="18" fill="var(--bg)"/>
+<rect width="1240" height="608" rx="18" fill="url(#dots)"/>
+<text x="46" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" fill="var(--muted)">USUALLY WITHIN ARM’S REACH</text>
+<text x="1194" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="400" fill="var(--muted)" text-anchor="end">AN INCOMPLETE INVENTORY</text>
+<path d="M46 64H1194" fill="none" stroke="var(--rule)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<path d="M667 132C804 87 1084 93 1182 149L1176 302C1001 310 805 303 675 284Z" fill="var(--mint)"/>
+<path d="M379 297L852 283L874 373L390 395Z" fill="var(--lavender)"/>
+<ellipse cx="974" cy="480" rx="83" ry="69" transform="rotate(-12 974 480)" fill="var(--gold)"/>
+<text x="54" y="105" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" fill="var(--muted)">01 / FOR THE THUMBS</text>
+<text x="49" y="181" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="700" fill="var(--ink)" letter-spacing="-2.5">React Native</text>
+<text x="65" y="245" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" fill="var(--blue)" transform="rotate(-6 65 245)" letter-spacing="-2.5">Expo</text>
+<text x="244" y="235" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="var(--ink)" transform="rotate(3 244 235)">Reanimated</text>
+<text x="68" y="294" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" fill="var(--ink)">FlashList</text>
+<text x="278" y="288" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400" fill="var(--muted)" transform="rotate(-5 278 288)">React.js</text>
+<text x="580" y="270" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="var(--blue)" transform="rotate(-90 580 270)">JavaScript</text>
+<path d="M57 196C203 185 368 205 487 192" fill="none" stroke="var(--blue)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<path d="M463 239C508 232 524 263 509 280C498 294 486 281 498 272C517 259 547 285 556 300" fill="none" stroke="var(--blue)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+<text x="685" y="105" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" fill="var(--muted)">02 / UNDER THE HOOD</text>
+<text x="680" y="181" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="700" fill="var(--ink)" letter-spacing="-2.5">Node.js</text>
+<text x="985" y="168" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="400" fill="var(--blue)" transform="rotate(6 985 168)">Express</text>
+<text x="686" y="240" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="600" fill="var(--ink)">PostgreSQL</text>
+<text x="997" y="230" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="var(--blue)" transform="rotate(-4 997 230)">Prisma</text>
+<text x="686" y="281" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="600" fill="var(--blue)">Redis</text>
+<text x="841" y="281" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="600" fill="var(--ink)" transform="rotate(3 841 281)">BullMQ</text>
+<text x="1060" y="280" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="400" fill="var(--muted)" transform="rotate(-4 1060 280)">REST</text>
+<text x="404" y="374" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" fill="var(--blue)" transform="rotate(-3 404 374)" letter-spacing="-2.5">TypeScript</text>
+<text x="447" y="418" font-family="Georgia, Times New Roman, serif" font-size="24" font-weight="400" fill="var(--muted)" transform="rotate(-3 447 418)" font-style="italic">the thread through most of it</text>
+<text x="66" y="366" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" fill="var(--blue)" letter-spacing="-2.5">Jest</text>
+<text x="208" y="363" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="600" fill="var(--ink)" transform="rotate(-6 208 363)">Mocha</text>
+<text x="68" y="404" font-family="Georgia, Times New Roman, serif" font-size="24" font-weight="400" fill="var(--muted)" font-style="italic">tests before confetti.</text>
+<text x="923" y="351" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" fill="var(--blue)" transform="rotate(-3 923 351)">WebSockets</text>
+<path d="M855 363C891 378 919 375 928 362" fill="none" stroke="var(--blue)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+<circle cx="928" cy="362" r="3" fill="var(--blue)"/>
+<text x="62" y="448" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" fill="var(--muted)">03 / OUT THE DOOR</text>
+<text x="60" y="507" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="var(--ink)" letter-spacing="-2.5">Docker</text>
+<text x="302" y="502" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="600" fill="var(--blue)" transform="rotate(-5 302 502)">Kamal</text>
+<text x="66" y="549" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="var(--ink)">GitHub Actions</text>
+<text x="512" y="493" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600" fill="var(--blue)" transform="rotate(-7 512 493)">Xcode</text>
+<text x="493" y="541" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="var(--ink)">Android Studio</text>
+<text x="675" y="451" font-family="Georgia, Times New Roman, serif" font-size="24" font-weight="400" fill="var(--blue)" transform="rotate(3 675 451)" font-style="italic">ship happens.</text>
+<path d="M757 496C797 515 823 493 850 471" fill="none" stroke="var(--blue)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<path d="M838 469L852 469L849 483" fill="none" stroke="var(--blue)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="852" y="405" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" fill="var(--muted)">04 / THE RABBIT HOLE</text>
+<text x="932" y="517" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="700" fill="var(--ink)" transform="rotate(-8 932 517)" letter-spacing="-2.5">C</text>
+<text x="1061" y="469" font-family="Georgia, Times New Roman, serif" font-size="23" font-weight="400" fill="var(--blue)" transform="rotate(4 1061 469)" font-style="italic">closer to the</text>
+<text x="1059" y="501" font-family="Georgia, Times New Roman, serif" font-size="25" font-weight="400" fill="var(--blue)" transform="rotate(4 1059 501)" font-style="italic">machinery.</text>
+<text x="901" y="548" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="var(--muted)">currently poking around</text>
+<path d="M46 563H1194" fill="none" stroke="var(--rule)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="46" y="592" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="400" fill="var(--muted)">DIFFERENT PROBLEMS. FAMILIAR ACCOMPLICES.</text>
+<text x="1194" y="592" font-family="Georgia, Times New Roman, serif" font-size="21" font-weight="400" fill="var(--blue)" font-style="italic" text-anchor="end">“it depends” comes separately.</text>
+</svg>
